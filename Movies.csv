@@ -1,0 +1,201 @@
+movie_id,title,release_date,budget,revenue,genres,vote_average,vote_count,country,imdb_id,metacritic_score
+27205,Inception,2010-07-15,160000000,825532764,"['Action', 'Science Fiction', 'Adventure']",8.362,33682,"['United Kingdom', 'United States of America']",tt1375666,74
+157336,Interstellar,2014-11-05,165000000,701729206,"['Adventure', 'Drama', 'Science Fiction']",8.402,31367,"['United Kingdom', 'United States of America']",tt0816692,74
+155,The Dark Knight,2008-07-14,185000000,1004558444,"['Drama', 'Action', 'Crime', 'Thriller']",8.51,29686,"['United Kingdom', 'United States of America']",tt0468569,84
+19995,Avatar,2009-12-15,237000000,2923706026,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",7.57,29073,"['United States of America', 'United Kingdom']",tt0499549,83
+24428,The Avengers,2012-04-25,220000000,1518815515,"['Science Fiction', 'Action', 'Adventure']",7.708,28576,['United States of America'],tt0848228,69
+293660,Deadpool,2016-02-09,58000000,783100000,"['Action', 'Adventure', 'Comedy']",7.603,28342,['United States of America'],tt1431045,65
+299536,Avengers: Infinity War,2018-04-25,300000000,2046239637,"['Adventure', 'Action', 'Science Fiction']",8.263,26866,['United States of America'],tt4154756,68
+550,Fight Club,1999-10-15,63000000,100853753,"['Drama', 'Thriller', 'Comedy']",8.433,26412,['United States of America'],tt0137523,66
+118340,Guardians of the Galaxy,2014-07-30,170000000,772776600,"['Action', 'Science Fiction', 'Adventure']",7.904,25958,['United States of America'],tt2015381,76
+680,Pulp Fiction,1994-09-10,8000000,214179088,"['Thriller', 'Crime']",8.491,25151,['United States of America'],tt0110912,95
+671,Harry Potter and the Philosopher's Stone,2001-11-16,125000000,976475550,"['Adventure', 'Fantasy']",7.915,24743,"['United Kingdom', 'United States of America']",tt0241527,65
+13,Forrest Gump,1994-06-23,55000000,677387716,"['Comedy', 'Drama', 'Romance']",8.481,24638,['United States of America'],tt0109830,82
+1726,Iron Man,2008-04-30,140000000,585174222,"['Action', 'Science Fiction', 'Adventure']",7.634,24322,['United States of America'],tt0371746,79
+68718,Django Unchained,2012-12-25,100000000,425368238,"['Drama', 'Western']",8.164,24050,['United States of America'],tt1853728,81
+278,The Shawshank Redemption,1994-09-23,25000000,28341469,"['Drama', 'Crime']",8.702,23765,['United States of America'],tt0111161,82
+603,The Matrix,1999-03-30,63000000,463517383,"['Action', 'Science Fiction']",8.202,23179,['United States of America'],tt0133093,73
+299534,Avengers: Endgame,2019-04-24,356000000,2794731755,"['Adventure', 'Science Fiction', 'Action']",8.3,23139,['United States of America'],tt4154796,78
+597,Titanic,1997-11-18,200000000,2264162353,"['Drama', 'Romance']",7.892,22869,['United States of America'],tt0120338,75
+475557,Joker,2019-10-01,55000000,1074458282,"['Crime', 'Thriller', 'Drama']",8.171,22717,"['Canada', 'United States of America']",tt7286456,59
+120,The Lord of the Rings: The Fellowship of the Ring,2001-12-18,93000000,871368364,"['Adventure', 'Fantasy', 'Action']",8.397,22666,"['New Zealand', 'United States of America']",tt0120737,92
+11324,Shutter Island,2010-02-14,80000000,294800000,"['Drama', 'Thriller', 'Mystery']",8.197,21676,['United States of America'],tt1130884,63
+122,The Lord of the Rings: The Return of the King,2003-12-01,94000000,1118888979,"['Adventure', 'Fantasy', 'Action']",8.474,21573,"['New Zealand', 'United States of America']",tt0167260,94
+106646,The Wolf of Wall Street,2013-12-25,100000000,392000000,"['Crime', 'Drama', 'Comedy']",8.036,21565,['United States of America'],tt0993846,75
+99861,Avengers: Age of Ultron,2015-04-22,365000000,1405403694,"['Action', 'Adventure', 'Science Fiction']",7.281,21274,['United States of America'],tt2395427,66
+271110,Captain America: Civil War,2016-04-27,250000000,1153337496,"['Adventure', 'Action', 'Science Fiction']",7.44,21086,['United States of America'],tt3498820,75
+49026,The Dark Knight Rises,2012-07-16,250000000,1081041287,"['Action', 'Crime', 'Drama', 'Thriller']",7.776,20800,['United States of America'],tt1345836,78
+68721,Iron Man 3,2013-04-18,200000000,1215577205,"['Action', 'Adventure', 'Science Fiction']",6.927,20620,['United States of America'],tt1300854,62
+284054,Black Panther,2018-02-13,200000000,1349926083,"['Action', 'Adventure', 'Science Fiction']",7.393,20616,['United States of America'],tt1825683,88
+76341,Mad Max: Fury Road,2015-05-13,150000000,378858340,"['Action', 'Adventure', 'Science Fiction']",7.575,20512,"['Australia', 'United States of America', 'South Africa']",tt1392190,90
+284052,Doctor Strange,2016-10-25,180000000,676343174,"['Action', 'Adventure', 'Fantasy']",7.425,20452,['United States of America'],tt1211837,72
+70160,The Hunger Games,2012-03-12,75000000,694394724,"['Science Fiction', 'Adventure', 'Fantasy']",7.191,20232,['United States of America'],tt1392170,68
+16869,Inglourious Basterds,2009-08-19,70000000,321457747,"['Drama', 'Thriller', 'War']",8.214,20178,"['France', 'Germany', 'United States of America']",tt0361748,69
+315635,Spider-Man: Homecoming,2017-07-05,175000000,880166924,"['Action', 'Adventure', 'Science Fiction', 'Drama']",7.349,19973,['United States of America'],tt2250912,73
+672,Harry Potter and the Chamber of Secrets,2002-11-13,100000000,876688482,"['Adventure', 'Fantasy']",7.724,19862,"['United Kingdom', 'United States of America']",tt0295297,63
+1771,Captain America: The First Avenger,2011-07-22,140000000,370569774,"['Action', 'Adventure', 'Science Fiction']",6.99,19823,['United States of America'],tt0458339,66
+297761,Suicide Squad,2016-08-03,175000000,746846894,"['Action', 'Adventure', 'Fantasy']",5.908,19766,['United States of America'],tt1386697,40
+121,The Lord of the Rings: The Two Towers,2002-12-18,79000000,926287400,"['Adventure', 'Fantasy', 'Action']",8.379,19704,"['New Zealand', 'United States of America']",tt0167261,87
+283995,Guardians of the Galaxy Vol. 2,2017-04-19,200000000,863756051,"['Science Fiction', 'Adventure', 'Action', 'Comedy']",7.625,19687,['United States of America'],tt3896198,67
+10195,Thor,2011-04-21,150000000,449326618,"['Adventure', 'Fantasy', 'Action']",6.768,19590,['United States of America'],tt0800369,57
+673,Harry Potter and the Prisoner of Azkaban,2004-05-31,130000000,789804554,"['Adventure', 'Fantasy']",8.022,19496,"['United Kingdom', 'United States of America']",tt0304141,82
+10138,Iron Man 2,2010-04-28,200000000,623933331,"['Adventure', 'Action', 'Science Fiction']",6.834,19265,['United States of America'],tt1228705,57
+284053,Thor: Ragnarok,2017-10-24,180000000,855301806,"['Action', 'Adventure', 'Fantasy', 'Science Fiction', 'Comedy']",7.599,19072,['United States of America'],tt3501632,74
+135397,Jurassic World,2015-06-12,150000000,1671537444,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",6.68,19050,['United States of America'],tt0369610,59
+272,Batman Begins,2005-06-10,150000000,374218673,"['Action', 'Crime', 'Drama']",7.695,19014,"['United Kingdom', 'United States of America']",tt0372784,70
+150540,Inside Out,2015-06-09,175000000,857611174,"['Animation', 'Family', 'Adventure', 'Drama', 'Comedy']",7.923,19007,['United States of America'],tt2096673,94
+674,Harry Potter and the Goblet of Fire,2005-11-16,150000000,895921036,"['Adventure', 'Fantasy', 'Family']",7.817,18784,"['United Kingdom', 'United States of America']",tt0330373,81
+807,Se7en,1995-09-22,33000000,327311859,"['Crime', 'Mystery', 'Thriller']",8.366,18752,['United States of America'],tt0114369,65
+22,Pirates of the Caribbean: The Curse of the Black Pearl,2003-07-09,140000000,655011224,"['Adventure', 'Fantasy', 'Action']",7.785,18745,['United States of America'],tt0325980,63
+12445,Harry Potter and the Deathly Hallows: Part 2,2011-07-07,125000000,1341511219,"['Fantasy', 'Adventure']",8.112,18709,"['United Kingdom', 'United States of America']",tt1201607,85
+297762,Wonder Woman,2017-05-30,149000000,822854286,"['Action', 'Adventure', 'Fantasy']",7.24,18618,['United States of America'],tt0451279,76
+11,Star Wars,1977-05-25,11000000,775398007,"['Adventure', 'Action', 'Science Fiction']",8.208,18612,['United States of America'],tt0076759,90
+14160,Up,2009-05-28,175000000,735099082,"['Animation', 'Comedy', 'Family', 'Adventure']",7.945,18393,['United States of America'],tt1049413,88
+102899,Ant-Man,2015-07-14,130000000,519311965,"['Science Fiction', 'Action', 'Adventure']",7.1,18314,['United States of America'],tt0478970,64
+286217,The Martian,2015-09-30,108000000,630600000,"['Drama', 'Adventure', 'Science Fiction']",7.672,18120,"['United Kingdom', 'United States of America']",tt3659388,80
+140607,Star Wars: The Force Awakens,2015-12-15,245000000,2068223624,"['Adventure', 'Action', 'Science Fiction']",7.3,17998,['United States of America'],tt2488496,80
+238,The Godfather,1972-03-14,6000000,245066411,"['Drama', 'Crime']",8.711,17918,['United States of America'],tt0068646,100
+105,Back to the Future,1985-07-03,19000000,381109762,"['Adventure', 'Comedy', 'Science Fiction']",8.312,17909,['United States of America'],tt0088763,87
+263115,Logan,2017-02-28,97000000,619021436,"['Action', 'Drama', 'Science Fiction']",7.814,17739,['United States of America'],tt3315342,77
+675,Harry Potter and the Order of the Phoenix,2007-06-28,150000000,938212738,"['Adventure', 'Fantasy', 'Mystery']",7.688,17721,"['United Kingdom', 'United States of America']",tt0373889,71
+767,Harry Potter and the Half-Blood Prince,2009-07-07,250000000,933959197,"['Adventure', 'Fantasy']",7.699,17658,"['United Kingdom', 'United States of America']",tt0417741,78
+12,Finding Nemo,2003-05-30,94000000,940335536,"['Animation', 'Family']",7.823,17650,['United States of America'],tt0266543,90
+259316,Fantastic Beasts and Where to Find Them,2016-11-16,180000000,809342332,"['Fantasy', 'Adventure', 'Family']",7.337,17608,"['United Kingdom', 'United States of America']",tt3183660,66
+346364,It,2017-09-06,35000000,701842551,"['Horror', 'Fantasy']",7.236,17571,['United States of America'],tt1396484,69
+634649,Spider-Man: No Way Home,2021-12-15,200000000,1921847111,"['Action', 'Adventure', 'Science Fiction']",8.006,17347,['United States of America'],tt10872600,71
+12444,Harry Potter and the Deathly Hallows: Part 1,2010-10-06,250000000,954305868,"['Adventure', 'Fantasy']",7.767,17345,"['United Kingdom', 'United States of America']",tt0926084,65
+245891,John Wick,2014-10-22,20000000,88761661,"['Action', 'Thriller']",7.406,17320,['United States of America'],tt2911666,68
+100402,Captain America: The Winter Soldier,2014-03-20,170000000,714766572,"['Action', 'Adventure', 'Science Fiction']",7.675,17282,['United States of America'],tt1843866,70
+354912,Coco,2017-10-27,175000000,800526015,"['Family', 'Animation', 'Fantasy', 'Music', 'Comedy', 'Adventure']",8.226,17192,"['Mexico', 'United States of America']",tt2380307,81
+557,Spider-Man,2002-05-01,139000000,821708551,"['Fantasy', 'Action']",7.267,17089,['United States of America'],tt0145487,73
+49051,The Hobbit: An Unexpected Journey,2012-11-26,250000000,1021103568,"['Adventure', 'Fantasy', 'Action']",7.335,17024,"['New Zealand', 'United States of America']",tt0903624,58
+10681,WALL·E,2008-06-22,180000000,521311860,"['Animation', 'Family', 'Science Fiction']",8.076,16990,['United States of America'],tt0910970,95
+210577,Gone Girl,2014-10-01,61000000,369330363,"['Mystery', 'Thriller', 'Drama']",7.892,16944,['United States of America'],tt2267998,79
+281957,The Revenant,2015-12-25,135000000,532950503,"['Western', 'Drama', 'Adventure']",7.522,16771,"['Canada', 'Hong Kong', 'Taiwan', 'United States of America']",tt1663202,76
+585,"Monsters, Inc.",2001-11-01,115000000,579707738,"['Animation', 'Comedy', 'Family']",7.831,16751,['United States of America'],tt0198781,79
+209112,Batman v Superman: Dawn of Justice,2016-03-23,250000000,873637528,"['Action', 'Adventure', 'Fantasy']",5.9,16744,['United States of America'],tt2975590,44
+862,Toy Story,1995-10-30,30000000,373554033,"['Animation', 'Adventure', 'Family', 'Comedy']",7.969,16684,['United States of America'],tt0114709,96
+8587,The Lion King,1994-06-23,45000000,763455561,"['Family', 'Animation', 'Drama']",8.259,16521,['United States of America'],tt0110357,88
+98,Gladiator,2000-05-04,103000000,465361176,"['Action', 'Drama', 'Adventure']",8.206,16448,"['United Kingdom', 'United States of America']",tt0172495,67
+37165,The Truman Show,1998-06-04,60000000,264118201,"['Comedy', 'Drama']",8.129,16220,['United States of America'],tt0120382,90
+9806,The Incredibles,2004-10-27,92000000,631442092,"['Action', 'Adventure', 'Animation', 'Family']",7.702,16211,['United States of America'],tt0317705,90
+329865,Arrival,2016-11-10,47000000,203388186,"['Drama', 'Science Fiction', 'Mystery']",7.581,16150,"['Canada', 'India', 'United States of America']",tt2543164,81
+76338,Thor: The Dark World,2013-10-30,170000000,644783140,"['Action', 'Adventure', 'Fantasy']",6.546,15990,['United States of America'],tt1981115,54
+381288,Split,2017-01-19,9000000,278454358,"['Horror', 'Thriller']",7.334,15964,['United States of America'],tt4972582,62
+1930,The Amazing Spider-Man,2012-06-23,215000000,757930663,"['Action', 'Adventure', 'Fantasy']",6.685,15964,['United States of America'],tt0948470,66
+383498,Deadpool 2,2018-05-10,110000000,785896609,"['Action', 'Comedy', 'Adventure']",7.492,15891,['United States of America'],tt5463162,66
+101299,The Hunger Games: Catching Fire,2013-11-15,130000000,865011746,"['Adventure', 'Action', 'Science Fiction']",7.422,15821,['United States of America'],tt1951264,76
+24,Kill Bill: Vol. 1,2003-10-10,30000000,180906076,"['Action', 'Crime']",7.97,15781,['United States of America'],tt0266697,69
+496243,Parasite,2019-05-30,11363000,257591776,"['Comedy', 'Thriller', 'Drama']",8.515,15715,['South Korea'],tt6751668,96
+77338,The Intouchables,2011-11-02,13000000,426588510,"['Drama', 'Comedy']",8.275,15711,['France'],tt1675434,57
+694,The Shining,1980-05-23,19000000,44781695,"['Horror', 'Thriller']",8.222,15701,['United States of America'],tt0081505,66
+424694,Bohemian Rhapsody,2018-10-24,52000000,903992901,"['Music', 'Drama', 'History']",8.0,15657,"['United Kingdom', 'United States of America']",tt1727824,49
+419430,Get Out,2017-02-24,4500000,255407969,"['Mystery', 'Thriller', 'Horror']",7.619,15625,['United States of America'],tt5052448,85
+205596,The Imitation Game,2014-11-14,14000000,233555708,"['History', 'Drama', 'Thriller', 'War']",8.01,15595,"['United Kingdom', 'United States of America']",tt2084970,71
+198663,The Maze Runner,2014-09-10,34000000,348319861,"['Action', 'Mystery', 'Science Fiction', 'Thriller']",7.173,15563,"['United States of America', 'United Kingdom']",tt1790864,57
+18785,The Hangover,2009-06-02,35000000,469310836,['Comedy'],7.309,15436,"['Germany', 'United States of America']",tt1119646,73
+497,The Green Mile,1999-12-10,60000000,286801374,"['Fantasy', 'Drama', 'Crime']",8.508,15391,['United States of America'],tt0120689,61
+1891,The Empire Strikes Back,1980-05-20,18000000,538400000,"['Adventure', 'Action', 'Science Fiction']",8.393,15335,['United States of America'],tt0080684,82
+207703,Kingsman: The Secret Service,2014-12-13,81000000,414351546,"['Crime', 'Comedy', 'Action', 'Adventure']",7.637,15317,"['United Kingdom', 'United States of America']",tt2802144,60
+808,Shrek,2001-05-18,60000000,487853320,"['Animation', 'Comedy', 'Fantasy', 'Adventure', 'Family']",7.723,15303,['United States of America'],tt0126029,84
+2062,Ratatouille,2007-06-28,150000000,623726000,"['Animation', 'Comedy', 'Family', 'Fantasy']",7.799,15253,['United States of America'],tt0382932,96
+313369,La La Land,2016-11-29,30000000,447407695,"['Comedy', 'Drama', 'Romance', 'Music']",7.891,15234,['United States of America'],tt3783958,94
+109445,Frozen,2013-11-20,150000000,1274219009,"['Animation', 'Family', 'Adventure', 'Fantasy']",7.247,15169,['United States of America'],tt2294629,75
+374720,Dunkirk,2017-07-19,0,527000000,"['War', 'Action', 'Drama']",7.46,15036,"['France', 'Netherlands', 'United Kingdom', 'United States of America']",tt5013056,94
+269149,Zootopia,2016-02-11,150000000,1023784195,"['Animation', 'Adventure', 'Family', 'Comedy']",7.746,14874,['United States of America'],tt2948356,78
+240832,Lucy,2014-07-25,40000000,458863600,"['Action', 'Science Fiction']",6.433,14865,['France'],tt2872732,61
+329,Jurassic Park,1993-06-11,63000000,920100000,"['Adventure', 'Science Fiction']",7.935,14706,['United States of America'],tt0107290,68
+321612,Beauty and the Beast,2017-03-16,160000000,1263521126,"['Family', 'Fantasy', 'Romance']",6.963,14659,['United States of America'],tt2771200,65
+274,The Silence of the Lambs,1991-02-14,19000000,272742922,"['Crime', 'Drama', 'Thriller']",8.344,14513,['United States of America'],tt0102926,86
+58,Pirates of the Caribbean: Dead Man's Chest,2006-07-06,200000000,1065659812,"['Adventure', 'Fantasy', 'Action']",7.339,14486,['United States of America'],tt0383574,53
+75656,Now You See Me,2013-05-29,75000000,351723989,"['Thriller', 'Crime']",7.343,14437,['United States of America'],tt1670345,50
+177572,Big Hero 6,2014-10-24,165000000,657827828,"['Adventure', 'Family', 'Animation', 'Action', 'Comedy']",7.74,14428,['United States of America'],tt2245084,74
+131631,The Hunger Games: Mockingjay - Part 1,2014-11-19,125000000,755356711,"['Science Fiction', 'Adventure', 'Thriller']",6.802,14390,['United States of America'],tt1951265,64
+335983,Venom,2018-09-28,116000000,855013954,"['Science Fiction', 'Action']",6.829,14370,"['China', 'United States of America']",tt1270797,35
+6479,I Am Legend,2007-12-12,150000000,585410052,"['Drama', 'Science Fiction', 'Thriller']",7.199,14324,['United States of America'],tt0480249,65
+129,Spirited Away,2001-07-20,19000000,274925095,"['Animation', 'Family', 'Fantasy']",8.542,14284,['Japan'],tt0245429,96
+339403,Baby Driver,2017-06-28,34000000,226945087,"['Action', 'Crime']",7.455,14278,['United Kingdom'],tt3890160,86
+299537,Captain Marvel,2019-03-06,152000000,1131416446,"['Action', 'Adventure', 'Science Fiction']",6.861,14244,['United States of America'],tt4154664,64
+37724,Skyfall,2012-10-24,200000000,0,"['Action', 'Adventure', 'Thriller']",7.222,14222,"['United Kingdom', 'United States of America']",tt1074638,81
+1892,Return of the Jedi,1983-05-25,32350000,572700000,"['Adventure', 'Action', 'Science Fiction']",7.889,14198,['United States of America'],tt0086190,58
+857,Saving Private Ryan,1998-07-24,70000000,481840909,"['Drama', 'History', 'War']",8.209,14196,['United States of America'],tt0120815,91
+49047,Gravity,2013-10-03,105000000,723192705,"['Science Fiction', 'Thriller', 'Drama']",7.158,14172,"['United Kingdom', 'United States of America']",tt1454468,96
+1124,The Prestige,2006-10-19,40000000,109676311,"['Drama', 'Mystery', 'Science Fiction']",8.202,14161,"['United Kingdom', 'United States of America']",tt0482571,66
+127585,X-Men: Days of Future Past,2014-05-15,250000000,747862775,"['Action', 'Adventure', 'Science Fiction']",7.522,14134,['United States of America'],tt1877832,75
+72190,World War Z,2013-06-20,200000000,531865000,"['Action', 'Drama', 'Horror', 'Science Fiction', 'Thriller']",6.802,14055,['United States of America'],tt0816711,63
+424,Schindler's List,1993-12-15,22000000,321365567,"['Drama', 'History', 'War']",8.571,14055,['United States of America'],tt0108052,95
+330459,Rogue One: A Star Wars Story,2016-12-14,200000000,1056057273,"['Action', 'Adventure', 'Science Fiction']",7.488,14033,['United States of America'],tt3748528,65
+333339,Ready Player One,2018-03-28,175000000,607274134,"['Science Fiction', 'Adventure', 'Action']",7.611,14027,['United States of America'],tt1677720,64
+429617,Spider-Man: Far From Home,2019-06-28,160000000,1131927996,"['Action', 'Adventure', 'Science Fiction']",7.459,13996,['United States of America'],tt6320628,69
+49521,Man of Steel,2013-06-12,225000000,668045518,"['Action', 'Adventure', 'Science Fiction']",6.606,13987,"['United Kingdom', 'United States of America']",tt0770828,55
+181808,Star Wars: The Last Jedi,2017-12-13,200000000,1332698830,"['Adventure', 'Action', 'Science Fiction']",6.837,13969,['United States of America'],tt2527336,84
+20352,Despicable Me,2010-07-08,69000000,533679475,"['Family', 'Animation', 'Comedy', 'Crime']",7.224,13910,['United States of America'],tt1323594,72
+640,Catch Me If You Can,2002-12-16,52000000,352114312,"['Drama', 'Crime']",7.966,13893,['United States of America'],tt0264464,75
+558,Spider-Man 2,2004-06-25,200000000,783766341,"['Action', 'Adventure', 'Fantasy']",7.242,13671,['United States of America'],tt0316654,83
+118,Charlie and the Chocolate Factory,2005-07-13,150000000,474968763,"['Adventure', 'Comedy', 'Family', 'Fantasy']",7.038,13606,"['United Kingdom', 'United States of America']",tt0367594,72
+244786,Whiplash,2014-10-10,3300000,13092000,"['Drama', 'Music']",8.377,13443,['United States of America'],tt2582802,89
+10193,Toy Story 3,2010-06-16,200000000,1066969703,"['Animation', 'Family', 'Comedy']",7.792,13437,['United States of America'],tt0435761,92
+1422,The Departed,2006-10-04,90000000,291465000,"['Drama', 'Thriller', 'Crime']",8.165,13398,"['Hong Kong', 'United States of America']",tt0407887,85
+120467,The Grand Budapest Hotel,2014-02-26,30000000,174600318,"['Comedy', 'Drama']",8.055,13378,"['Germany', 'United States of America']",tt2278388,88
+38,Eternal Sunshine of the Spotless Mind,2004-03-19,20000000,72258126,"['Science Fiction', 'Drama', 'Romance']",8.1,13351,['United States of America'],tt0338013,89
+77,Memento,2000-10-11,9000000,39723096,"['Mystery', 'Thriller']",8.19,13277,['United States of America'],tt0209144,81
+44214,Black Swan,2010-12-03,13000000,329398046,"['Drama', 'Thriller', 'Horror']",7.665,13237,['United States of America'],tt0947798,79
+101,Léon: The Professional,1994-09-14,16000000,45284974,"['Crime', 'Drama', 'Action']",8.321,13228,"['United States of America', 'France']",tt0110413,64
+752,V for Vendetta,2006-02-23,54000000,132511035,"['Action', 'Thriller', 'Science Fiction']",7.898,13215,"['Germany', 'United Kingdom', 'United States of America']",tt0434409,62
+1893,Star Wars: Episode I - The Phantom Menace,1999-05-19,115000000,924317558,"['Adventure', 'Action', 'Science Fiction']",6.528,13189,['United States of America'],tt0120915,51
+152601,Her,2013-12-18,23000000,47351251,"['Romance', 'Science Fiction', 'Drama']",7.863,13100,['United States of America'],tt1798709,91
+285,Pirates of the Caribbean: At World's End,2007-05-19,300000000,961000000,"['Adventure', 'Fantasy', 'Action']",7.238,13000,['United States of America'],tt0449088,50
+122917,The Hobbit: The Battle of the Five Armies,2014-12-10,250000000,956019788,"['Action', 'Adventure', 'Fantasy']",7.314,12981,"['New Zealand', 'United States of America']",tt2310332,59
+273248,The Hateful Eight,2015-12-25,44000000,155760117,"['Drama', 'Mystery', 'Western']",7.744,12965,['United States of America'],tt3460252,68
+500,Reservoir Dogs,1992-09-02,1200000,2859750,"['Crime', 'Thriller']",8.141,12934,['United States of America'],tt0105236,81
+10528,Sherlock Holmes,2009-12-23,90000000,524028679,"['Action', 'Adventure', 'Crime', 'Mystery']",7.2,12917,"['Australia', 'Germany', 'United Kingdom', 'United States of America']",tt0988045,57
+12155,Alice in Wonderland,2010-03-03,200000000,1025467110,"['Family', 'Fantasy', 'Adventure']",6.619,12865,['United States of America'],tt1014759,53
+1865,Pirates of the Caribbean: On Stranger Tides,2011-05-14,379000000,1045713802,"['Adventure', 'Action', 'Fantasy']",6.532,12821,"['United Kingdom', 'United States of America']",tt1298650,45
+348,Alien,1979-05-25,11000000,104931801,"['Horror', 'Science Fiction']",8.142,12774,"['United States of America', 'United Kingdom']",tt0078748,89
+447332,A Quiet Place,2018-04-03,17000000,341000000,"['Horror', 'Drama', 'Science Fiction']",7.398,12716,['United States of America'],tt6644200,82
+324857,Spider-Man: Into the Spider-Verse,2018-12-14,90000000,375464627,"['Action', 'Adventure', 'Animation', 'Science Fiction']",8.406,12713,['United States of America'],tt4633694,87
+559,Spider-Man 3,2007-05-01,258000000,890871626,"['Fantasy', 'Action', 'Adventure']",6.386,12681,['United States of America'],tt0413300,59
+297802,Aquaman,2018-12-07,160000000,1148528393,"['Action', 'Adventure', 'Fantasy']",6.9,12620,['United States of America'],tt1477834,55
+393,Kill Bill: Vol. 2,2004-04-16,30000000,152159461,"['Action', 'Crime', 'Thriller']",7.877,12603,['United States of America'],tt0378194,83
+920,Cars,2006-06-08,120000000,461983149,"['Animation', 'Adventure', 'Comedy', 'Family']",6.92,12572,['United States of America'],tt0317219,73
+863,Toy Story 2,1999-10-30,90000000,497366869,"['Animation', 'Comedy', 'Family']",7.586,12552,['United States of America'],tt0120363,88
+1271,300,2007-03-07,65000000,456082343,"['Action', 'Adventure', 'War']",7.171,12524,"['Bulgaria', 'Canada', 'United States of America']",tt0416449,52
+353486,Jumanji: Welcome to the Jungle,2017-12-09,90000000,995339117,"['Adventure', 'Action', 'Comedy', 'Fantasy']",6.823,12498,['United States of America'],tt2283362,58
+607,Men in Black,1997-07-02,90000000,589390539,"['Action', 'Adventure', 'Comedy', 'Science Fiction']",7.18,12482,['United States of America'],tt0119654,71
+137113,Edge of Tomorrow,2014-05-27,178000000,370541256,"['Action', 'Science Fiction']",7.6,12478,['United States of America'],tt1631867,71
+1895,Star Wars: Episode III - Revenge of the Sith,2005-05-17,113000000,850000000,"['Adventure', 'Action', 'Science Fiction']",7.406,12405,['United States of America'],tt0121766,68
+78,Blade Runner,1982-06-25,28000000,41722424,"['Science Fiction', 'Drama', 'Thriller']",7.934,12396,"['United States of America', 'Hong Kong', 'United Kingdom']",tt0083658,84
+8966,Twilight,2008-11-20,37000000,393616788,"['Fantasy', 'Drama', 'Romance']",6.294,12383,['United States of America'],tt1099212,56
+62177,Brave,2012-06-21,185000000,538983207,"['Animation', 'Adventure', 'Comedy', 'Family', 'Action', 'Fantasy']",7.009,12319,['United States of America'],tt1217209,69
+102651,Maleficent,2014-05-28,180000000,758539785,"['Fantasy', 'Adventure', 'Action', 'Family', 'Romance']",7.09,12250,['United States of America'],tt1587310,56
+324786,Hacksaw Ridge,2016-10-07,40000000,175302354,"['Drama', 'History', 'War']",8.192,12238,"['Australia', 'China', 'United Kingdom', 'United States of America']",tt2119532,71
+87827,Life of Pi,2012-11-20,120000000,609016565,"['Adventure', 'Drama']",7.396,12197,"['Canada', 'Taiwan', 'United Kingdom', 'United States of America']",tt0454876,79
+363088,Ant-Man and the Wasp,2018-07-04,140000000,622674139,"['Action', 'Adventure', 'Science Fiction']",6.955,12161,['United States of America'],tt5095030,70
+274870,Passengers,2016-12-21,110000000,303144152,"['Drama', 'Romance', 'Science Fiction']",6.929,12162,['United States of America'],tt1355644,41
+264660,Ex Machina,2015-01-21,15000000,36869414,"['Drama', 'Science Fiction']",7.569,12080,"['United Kingdom', 'United States of America']",tt0470752,78
+141052,Justice League,2017-11-15,300000000,657926987,"['Action', 'Adventure', 'Science Fiction']",6.105,12014,['United States of America'],tt0974015,45
+102382,The Amazing Spider-Man 2,2014-04-16,200000000,708962323,"['Action', 'Adventure', 'Fantasy']",6.489,11972,['United States of America'],tt1872181,53
+57158,The Hobbit: The Desolation of Smaug,2013-12-11,250000000,958400000,"['Fantasy', 'Adventure', 'Action']",7.573,11970,"['New Zealand', 'United States of America']",tt1170358,66
+425,Ice Age,2002-03-10,59000000,383257136,"['Animation', 'Comedy', 'Family', 'Adventure']",7.342,11965,['United States of America'],tt0268380,61
+246655,X-Men: Apocalypse,2016-05-18,178000000,543934787,"['Action', 'Adventure', 'Science Fiction', 'Fantasy']",6.514,11964,['United States of America'],tt3385516,52
+1894,Star Wars: Episode II - Attack of the Clones,2002-05-15,120000000,649398328,"['Adventure', 'Action', 'Science Fiction']",6.55,11963,['United States of America'],tt0121765,54
+194662,Birdman or (The Unexpected Virtue of Ignorance),2014-10-17,18000000,103215094,"['Drama', 'Comedy']",7.47,11924,['United States of America'],tt2562232,87
+157350,Divergent,2014-03-14,85000000,288747895,"['Action', 'Adventure', 'Science Fiction']",6.921,11900,['United States of America'],tt1840309,48
+637,Life Is Beautiful,1997-12-20,20000000,230098753,"['Comedy', 'Drama']",8.454,11881,['Italy'],tt0118799,59
+335984,Blade Runner 2049,2017-10-04,150000000,259239658,"['Science Fiction', 'Drama']",7.533,11843,"['Canada', 'Hungary', 'Mexico', 'Spain', 'United Kingdom', 'United States of America']",tt1856101,81
+190859,American Sniper,2014-12-25,58800000,542307423,"['War', 'Action']",7.433,11837,['United States of America'],tt2179136,72
+466272,Once Upon a Time… in Hollywood,2019-07-24,95000000,374251247,"['Comedy', 'Drama', 'Thriller']",7.435,11794,"['China', 'United Kingdom', 'United States of America']",tt7131622,83
+260513,Incredibles 2,2018-06-14,200000000,1242805359,"['Action', 'Adventure', 'Animation', 'Family']",7.486,11771,['United States of America'],tt3606756,80
+10191,How to Train Your Dragon,2010-03-18,165000000,494879471,"['Fantasy', 'Adventure', 'Animation', 'Family']",7.807,11772,['United States of America'],tt0892769,75
+162,Edward Scissorhands,1990-12-05,20000000,53000000,"['Fantasy', 'Drama', 'Romance']",7.717,11761,['United States of America'],tt0099487,74
+49538,X-Men: First Class,2011-06-01,160000000,353624124,"['Action', 'Science Fiction', 'Adventure']",7.293,11723,['United States of America'],tt1270798,65
+185,A Clockwork Orange,1971-12-19,2200000,26589000,"['Science Fiction', 'Drama']",8.218,11594,"['United Kingdom', 'United States of America']",tt0066921,77
+4922,The Curious Case of Benjamin Button,2008-12-25,150000000,335802786,"['Drama', 'Fantasy', 'Romance']",7.577,11565,['United States of America'],tt0421715,70
+324552,John Wick: Chapter 2,2017-02-08,40000000,171539887,"['Action', 'Thriller', 'Crime']",7.315,11496,['United States of America'],tt4425200,75
+165,Back to the Future Part II,1989-11-22,40000000,332000000,"['Adventure', 'Comedy', 'Science Fiction']",7.752,11481,['United States of America'],tt0096874,57
+218,The Terminator,1984-10-26,6400000,78371200,"['Action', 'Thriller', 'Science Fiction']",7.641,11468,"['United Kingdom', 'United States of America']",tt0088247,84
+64690,Drive,2011-09-15,15000000,78054825,"['Drama', 'Thriller', 'Crime']",7.566,11345,['United States of America'],tt0780504,78
+280,Terminator 2: Judgment Day,1991-07-03,102000000,520000000,"['Action', 'Thriller', 'Science Fiction']",8.097,11314,"['France', 'United States of America']",tt0103064,75
+82690,Wreck-It Ralph,2012-11-01,165000000,471222889,"['Family', 'Animation', 'Comedy', 'Adventure']",7.324,11291,['United States of America'],tt1772341,72
+68726,Pacific Rim,2013-07-11,180000000,411002906,"['Action', 'Science Fiction', 'Adventure']",6.866,11291,['United States of America'],tt1663662,65
+399055,The Shape of Water,2017-12-01,19500000,195333312,"['Drama', 'Fantasy', 'Romance']",7.249,11282,['United States of America'],tt5580390,87

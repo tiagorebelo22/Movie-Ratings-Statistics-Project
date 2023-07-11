@@ -16,7 +16,7 @@ We assessed whether ratings have an impact on movie revenues using an independen
 4\. User Ratings vs. Critic Ratings:\
 We explored the presence of a correlation between user ratings and critic ratings using the Pearson correlation score. This analysis aimed to identify any alignment or disparity between the opinions of moviegoers and professional critics.
 
-In summary, this project not only provided valuable insights into movie ratings but also shed light on the relationships between movie genres, budgets, revenues, and different types of ratings. By employing various statistical techniques, we were able to draw meaningful conclusions and contribute to a deeper understanding of the factors influencing movie ratings.
+In summary, this project not only provided valuable insights into movie ratings but also shed light on the relationships between movie genres, budgets, revenues, and different types of ratings. By employing various statistical techniques, we were able to draw meaningful conclusions and contribute to a deeper understanding of the factors influencing movie ratings. 
 
 Sources:\
 https://www.themoviedb.org/
